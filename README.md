@@ -28,7 +28,7 @@ I'm actively seeking ways to merge my two passions. My next big project will be 
 -   **Mobile:** Flutter, Dart
 -   **AI/ML:** Python, TensorFlow, PyTorch
 -   **Languages:** Python, C++, Dart, Java
--   **Other:** Git, Docker _(add/remove as you see fit)_
+-   **Other:** Git, Docker
 
 ---
 
