@@ -8,9 +8,10 @@ If you find my work interesting or useful, consider supporting it.
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge\&logo=github)](https://github.com/sponsors/athansmaliakkal)
 
-## ⚡️ Stats
 
 <br>
+
+
 <hr>
 
 > *Physics explains the universe. Systems programming controls the machine.*
