@@ -11,9 +11,6 @@ If you find my work interesting or useful, consider supporting it.
 ## ⚡️ Stats
 
 <br>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=athansmaliakkal&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-
 <hr>
 
 > *Physics explains the universe. Systems programming controls the machine.*
